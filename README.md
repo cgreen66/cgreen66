@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBraHg4aXBncTRwb25hOXdseWV4Z3c5cW12ejM2NXRodmgwNnV5MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBraHg4aXBncTRwb25hOXdseWV4Z3c5cW12ejM2NXRodmgwNnV5MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
   
   ## Welcome to my GitHub! 👋
   
@@ -15,7 +15,11 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=cgreen66&style=flat-square&color=blue" alt=""/>
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=cgreen66&style=flat-square&color=blue)
+  
+</div>
 
 ---
 
