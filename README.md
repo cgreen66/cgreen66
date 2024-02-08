@@ -23,7 +23,7 @@
 
 ---
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 35px></picture> About Me
+### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 35px></picture> About Me
 
 - 🎓 **Educated at NYU Stern** - BSc in Business, diving deep into Business Strategy and Global Marketing.
 - 💻 **Tech-savvy Developer** - Graduated from App Academy; proficient in JavaScript, Ruby on Rails, React/Redux, MERN Stack, and much more.
