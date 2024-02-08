@@ -25,7 +25,7 @@
 
 ### 🙋‍♂️ About Me
 
-- 🎓 **Educated at NYU Stern** - BSc in Business, diving deep into Digital Business Strategy and Global Marketing.
+- 🎓 **Educated at NYU Stern** - BSc in Business, diving deep into Business Strategy and Global Marketing.
 - 💻 **Tech-savvy Developer** - Graduated from App Academy; proficient in JavaScript, Ruby on Rails, React/Redux, and MERN Stack.
 - 🛠 **Project Highlights**:
   - **TravelAI**: Developed using MERN & OpenAI for tailored travel planning.
