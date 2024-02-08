@@ -1,46 +1,51 @@
 <div align="center">
   
-![Header](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBraHg4aXBncTRwb25hOXdseWV4Z3c5cW12ejM2NXRodmgwNnV5MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif)
-
-## Welcome to my GitHub! 👋
-
-</div>
-
-<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBraHg4aXBncTRwb25hOXdseWV4Z3c5cW12ejM2NXRodmgwNnV5MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="80"/>
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrisgreenn)
-
-![Profile Views](https://komarev.com/ghpvc/?username=cgreen66&style=flat-square&color=blue)
-
+  ## Welcome to my GitHub! 👋
+  
 </div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/chrisgreenn">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://greenchris.com">
+    <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</div>
+
+<img src="https://komarev.com/ghpvc/?username=cgreen66&style=flat-square&color=blue" alt=""/>
 
 ---
 
 ### 🙋‍♂️ About Me
 
-I'm a Full Stack Developer with a passion for building scalable web applications and exploring new technologies. With a foundation in both frontend and backend development, I aim to contribute effectively to my team and create impactful solutions.
+I am a Full Stack Developer passionate about creating impactful solutions and exploring the vast world of web development. My journey is marked by continuous learning and collaboration.
 
-- 🔭 I’m currently working on MERN stack projects.
-- 🌱 I’m currently learning Cloud Architecture and Distributed Systems.
-- 👯 I’m looking to collaborate on Open Source Projects.
-- 🤔 I’m looking for help with Advanced Algorithms.
-- 💬 Ask me about anything tech-related, I'm happy to help.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chrisgreenn)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to attend tech meetups and hackathons.
+- 🔭 Developing web applications with a focus on user experience and performance.
+- 🌱 Currently diving deeper into cloud architecture minus AWS, focusing on serverless and scalable solutions.
+- 👯 Open to collaborating on innovative open-source projects and tech for social good.
+- 💬 Ask me about web development, best practices in software engineering, and tech career advice.
+- 📫 How to reach me: [chris@greenchris.com](mailto:chris@greenchris.com)
+- ⚡ Fun fact: I'm an avid learner who loves to share knowledge through blogging and speaking at tech events.
 
 ---
 
-### 🚀 Languages and Tools:
+### 🚀 Skills
 
 <div align="center">
   
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/aws/aws-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<!-- Add more icons -->
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Ruby on Rails" alt="Ruby on Rails" width="40" height="40"/>
+  
 </div>
 
 ---
@@ -61,11 +66,11 @@ I'm a Full Stack Developer with a passion for building scalable web applications
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-*Checkout more on [My Blog](your-blog-link).*
+*Discover more on [my blog](https://greenchris.com/blog).*
 
 ---
 
-### 📈 Yearly Contribution Graph
+### 📈 Contribution Graph
 
 <div align="center">
   
@@ -75,18 +80,16 @@ I'm a Full Stack Developer with a passion for building scalable web applications
 
 ---
 
-### 📫 How to Reach Me
+### 📫 Let's Connect
 
-For any inquiries or collaboration, feel free to reach out!
-
-- 📧 Email: your-email@example.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/chrisgreenn)
-- 🐦 [Twitter](your-twitter-link)
+- 📧 Email: [chris@greenchris.com](mailto:chris@greenchris.com)
+- 💼 Portfolio: [greenchris.com](https://greenchris.com)
+- 💬 LinkedIn: [Chris Green](https://www.linkedin.com/in/chrisgreenn)
 
 ---
 
 <div align="center">
   
-### Thank you for visiting my GitHub profile! 🙏
+### Thank you for visiting! 🌟
 
 </div>
