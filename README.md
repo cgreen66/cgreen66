@@ -65,20 +65,11 @@ I am a Full Stack Developer passionate about creating impactful solutions and ex
 
 ---
 
-### 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-*Discover more on [my blog](https://greenchris.com/blog).*
-
----
-
 ### 📈 Contribution Graph
 
 <div align="center">
   
-![cgreen66's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cgreen66&bg_color=000000&color=ffffff&line=00ff00&point=ffffff&area=true&hide_border=true)
+[![Chris' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cgreen66&theme=dracula)](https://github.com/cgreen66/github-readme-activity-graph)
 
 </div>
 
