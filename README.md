@@ -24,15 +24,27 @@
 ---
 
 ### 🙋‍♂️ About Me
+### 🙋‍♂️ About Me
 
-I am a Full Stack Developer passionate about creating impactful solutions and exploring the vast world of web development. My journey is marked by continuous learning and collaboration.
+Hello, I'm Christopher Green, a multifaceted Full Stack Developer with a solid foundation in business from the Stern School of Business at New York University. My academic journey, enriched with courses like Digital Business Strategy and Global Marketing Strategy, has instilled a deep understanding of the digital landscape, fueling my passion for technology and software development.
 
-- 🔭 Developing web applications with a focus on user experience and performance.
-- 🌱 Currently diving deeper into cloud architecture minus AWS, focusing on serverless and scalable solutions.
-- 👯 Open to collaborating on innovative open-source projects and tech for social good.
-- 💬 Ask me about web development, best practices in software engineering, and tech career advice.
+After transitioning from a successful career in marketing, where I honed my skills in audience engagement and digital campaign optimization at multiple companies, I immersed myself in the world of coding through an intensive software development program at App Academy. This transformative experience equipped me with expertise in JavaScript, Ruby on Rails, React, and SQL, enabling me to create scalable and impactful web applications.
+
+**Projects like TravelAI and Amasphere stand as testaments to my ability to blend technical prowess with creative problem-solving**—whether it's leveraging OpenAI for personalized travel recommendations or crafting an intuitive shopping experience akin to Amazon. My projects underscore a commitment to enhancing user experiences and personalizing the digital journey.
+
+Beyond the code, I've demonstrated entrepreneurial spirit by building a social media business from the ground up, achieving remarkable milestones, including amassing over 10.5M followers and generating significant revenue, before successfully exiting in 2020.
+
+When not coding or strategizing, I channel my energy into MMA training and racing sport bikes, pursuits that reflect my dedication, resilience, and pursuit of excellence. These hobbies, along with my professional endeavors, paint a picture of a driven, adaptable, and innovative individual eager to make meaningful contributions to the tech world.
+
+I'm excited to bring my diverse skill set, strategic insights, and relentless work ethic to a dynamic team where I can contribute to challenging projects and drive technological advancement.
+
+Let's connect and explore how we can collaborate on future innovations.
+
 - 📫 How to reach me: [chris@greenchris.com](mailto:chris@greenchris.com)
-- ⚡ Fun fact: I'm an avid learner who loves to share knowledge through blogging and speaking at tech events.
+- 💼 Portfolio: [greenchris.com](https://greenchris.com)
+- 💬 LinkedIn: [Chris Green](https://www.linkedin.com/in/chrisgreenn)
+
+
 
 ---
 
