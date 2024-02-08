@@ -30,7 +30,7 @@
 - 🛠 **Project Highlights**:
   - **TravelAI**: Developed using MERN & OpenAI for tailored travel planning.
   - **Amasphere**: Engineered a sophisticated shopping platform with React/Redux and Rails.
-- 📈 **Marketing Maven** - Boosted engagement and conversions through strategic campaigns at Carnegie and Arkose Labs.
+- 📈 **Marketing Maven** - Boosted engagement and conversions through strategic campaigns at multiple companies.
 - 🚀 **Entrepreneurial Spirit** - Grew a social media business to over 10.5M followers and successfully exited.
 - 🤺 **MMA Enthusiast** & 🏍 **Sport Bike Racer** - Passionate about pushing limits and embracing challenges.
 - 📫 Reach me at [chris@greenchris.com](mailto:chris@greenchris.com) or explore my work at [greenchris.com](https://greenchris.com).
