@@ -24,27 +24,16 @@
 ---
 
 ### 🙋‍♂️ About Me
-### 🙋‍♂️ About Me
 
-Hello, I'm Christopher Green, a multifaceted Full Stack Developer with a solid foundation in business from the Stern School of Business at New York University. My academic journey, enriched with courses like Digital Business Strategy and Global Marketing Strategy, has instilled a deep understanding of the digital landscape, fueling my passion for technology and software development.
-
-After transitioning from a successful career in marketing, where I honed my skills in audience engagement and digital campaign optimization at multiple companies, I immersed myself in the world of coding through an intensive software development program at App Academy. This transformative experience equipped me with expertise in JavaScript, Ruby on Rails, React, and SQL, enabling me to create scalable and impactful web applications.
-
-**Projects like TravelAI and Amasphere stand as testaments to my ability to blend technical prowess with creative problem-solving**—whether it's leveraging OpenAI for personalized travel recommendations or crafting an intuitive shopping experience akin to Amazon. My projects underscore a commitment to enhancing user experiences and personalizing the digital journey.
-
-Beyond the code, I've demonstrated entrepreneurial spirit by building a social media business from the ground up, achieving remarkable milestones, including amassing over 10.5M followers and generating significant revenue, before successfully exiting in 2020.
-
-When not coding or strategizing, I channel my energy into MMA training and racing sport bikes, pursuits that reflect my dedication, resilience, and pursuit of excellence. These hobbies, along with my professional endeavors, paint a picture of a driven, adaptable, and innovative individual eager to make meaningful contributions to the tech world.
-
-I'm excited to bring my diverse skill set, strategic insights, and relentless work ethic to a dynamic team where I can contribute to challenging projects and drive technological advancement.
-
-Let's connect and explore how we can collaborate on future innovations.
-
-- 📫 How to reach me: [chris@greenchris.com](mailto:chris@greenchris.com)
-- 💼 Portfolio: [greenchris.com](https://greenchris.com)
-- 💬 LinkedIn: [Chris Green](https://www.linkedin.com/in/chrisgreenn)
-
-
+- 🎓 **Educated at NYU Stern** - BSc in Business, diving deep into Digital Business Strategy and Global Marketing.
+- 💻 **Tech-savvy Developer** - Graduated from App Academy; proficient in JavaScript, Ruby on Rails, React/Redux, and MERN Stack.
+- 🛠 **Project Highlights**:
+  - **TravelAI**: Developed using MERN & OpenAI for tailored travel planning.
+  - **Amasphere**: Engineered a sophisticated shopping platform with React/Redux and Rails.
+- 📈 **Marketing Maven** - Boosted engagement and conversions through strategic campaigns at Carnegie and Arkose Labs.
+- 🚀 **Entrepreneurial Spirit** - Grew a social media business to over 10.5M followers and successfully exited.
+- 🤺 **MMA Enthusiast** & 🏍 **Sport Bike Racer** - Passionate about pushing limits and embracing challenges.
+- 📫 Reach me at [chris@greenchris.com](mailto:chris@greenchris.com) or explore my work at [greenchris.com](https://greenchris.com).
 
 ---
 
@@ -84,14 +73,6 @@ Let's connect and explore how we can collaborate on future innovations.
 [![Chris' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cgreen66&theme=dracula)](https://github.com/cgreen66/github-readme-activity-graph)
 
 </div>
-
----
-
-### 📫 Let's Connect
-
-- 📧 Email: [chris@greenchris.com](mailto:chris@greenchris.com)
-- 💼 Portfolio: [greenchris.com](https://greenchris.com)
-- 💬 LinkedIn: [Chris Green](https://www.linkedin.com/in/chrisgreenn)
 
 ---
 
